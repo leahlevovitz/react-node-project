@@ -2,12 +2,6 @@
 
 > A full-stack e-commerce web app: product catalog, shopping cart, checkout and an admin area, built with **React 19, Redux Toolkit, Node.js / Express 5 and MongoDB**.
 
-![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-RTK_Query-764ABC?logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Express_5-339933?logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/Auth-JWT_%2B_bcrypt-000000?logo=jsonwebtokens&logoColor=white)
-
 ## ✨ Features
 - 🏠 Home page and product catalog with images
 - 🛒 Shopping cart: add, remove and update quantities, then checkout
@@ -51,4 +45,4 @@ npm start
 ```
 
 ---
-👩‍💻 Built by **Leah Levovitz** · [LinkedIn](https://www.linkedin.com/in/leahlevovitz) · [GitHub](https://github.com/leahlevovitz)
+👩‍💻 Built by **Leah Levovitz** · [GitHub](https://github.com/leahlevovitz)
